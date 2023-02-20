@@ -1,0 +1,47 @@
+:root{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    margin:0px;
+    text-align: center;
+}
+.text-xl{
+    font-size: 2.6em;
+}
+.text-l{
+    font-size: 2.25rem;
+}
+.text-ml{
+    font-size: 2rem;
+}
+.text-sm{
+    font-size: 1.75em; 
+}
+.text-xs{
+    font-size: 1.5em;
+}
+#app-padding
+{
+    padding-left: 28px;
+    padding-right: 28px;
+}
+.text-color-white{
+    color:#FFFFFF;
+}
+
+.text-color-yellow{
+    color:#C1DE2F;
+}
+.text-color-gray{
+    color:#ABABAD;
+}
+.text-color-green{
+    color:#4CA399;
+}
+.bg-color-dgreen{
+    background-color: #2BB3B1;
+}
+.bg-color-lgreen{
+    background-color: #4ABEBD;
+}
